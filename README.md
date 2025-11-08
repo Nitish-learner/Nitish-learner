@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi there, I'm Nitish!
 
-<!--
-**Nitish-learner/Nitish-learner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **beginner Web Developer** exploring the world of **HTML, CSS, and JavaScript**.  
+I love building small projects, learning new technologies, and improving my coding skills every day. 🚀  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- HTML5 & CSS3 fundamentals  
+- Responsive Web Design  
+- JavaScript (Basics to DOM manipulation)  
+- Version Control using Git & GitHub  
+
+---
+
+## 💻 Projects I’m Working On
+- 🌐 Personal Portfolio Website  
+- 📝 Simple To-Do List App  
+- 🎨 Basic Landing Page using HTML/CSS  
+
+---
+
+## 🛠️ Tech Stack
+| Category | Tools |
+|-----------|--------|
+| **Frontend** | HTML, CSS, JavaScript |
+| **Version Control** | Git, GitHub |
+| **Editor** | VS Code |
+| **Design Tools** | Figma, Canva (for simple UI design) |
+
+---
+
+## 📫 How to Reach Me
+- 💼 GitHub: [@Nitish-learner](https://github.com/Nitish-learner)
+- ✉️ Email: *your.email@example.com*  
+- 💬 LinkedIn: *Add your LinkedIn link here*
+
+---
+
+## ⚡ Fun Fact
+I started coding with curiosity and now I’m building something new every week! 💪  
+_"Every expert was once a beginner."_
+
+---
+
+⭐ **Feel free to check out my repositories and drop a star if you like my work!**
