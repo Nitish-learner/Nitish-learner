@@ -3,7 +3,7 @@
 💻 Java Developer | BCA Student | Aspiring Data Analyst
 🌱 Currently learning Java, SQL, Power BI & DSA
 📫 Email: [nitishkumarpiprakhura2005@gmail.com](mailto:nitishkumarpiprakhura2005@gmail.com)
-💼 LinkedIn: https://www.linkedin.com/in/your-linkedin-username
+💼 LinkedIn: www.linkedin.com/in/nitish-kumar-65ab54351
 🚀 Open to internships and learning opportunities.
 
 
