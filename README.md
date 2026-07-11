@@ -1,7 +1,6 @@
-# Hi, I'm Nitish Kumar 👋
-
-💻 Java Developer | BCA Student | Aspiring Data Analyst
-🌱 Currently learning Java, SQL, Power BI & DSA
+Hi i'm Nitish kuamr
+BCA | Aspiring Java Developer & Data Analyst
+Passionate about coding technology Skilled in Java + DSA, SQL, Python, C++, Power BI, and Git & GitHub
 
 📫 Email: [nitishkumarpiprakhura2005@gmail.com](mailto:nitishkumarpiprakhura2005@gmail.com)
 
