@@ -9,7 +9,7 @@ Passionate about coding technology Skilled in Java + DSA, SQL, Python, C++, Powe
 
 
 --
-- 💼 GitHub: [@Nitish-learner](https://github.com/Nitish-lea
+- 💼 GitHub: [@Nitish-learner](https://github.com/Nitish-learner
 - 
 ⚡ Fun Fact
  
