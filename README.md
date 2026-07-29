@@ -1,6 +1,7 @@
 Hi i'm Nitish kuamr
-BCA | Aspiring Java Developer & Data Analyst
-Passionate about coding technology Skilled in Java + DSA, SQL, Python, C++, Power BI, and Git & GitHub
+**BCA Student | Aspiring Java Developer & Data Analyst**
+Passionate about coding and technology. Skilled in **Java, DSA, SQL, Python, C++, Power BI, Microsoft 365, Git & GitHub**.
+
 
 📫 Email: [nitishkumarpiprakhura2005@gmail.com](mailto:nitishkumarpiprakhura2005@gmail.com)
 
