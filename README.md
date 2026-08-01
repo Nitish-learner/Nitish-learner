@@ -6,11 +6,8 @@ Passionate about coding and technology. Skilled in **Java, DSA, SQL, Python, C++
 📫 Email: [nitishkumarpiprakhura2005@gmail.com](mailto:nitishkumarpiprakhura2005@gmail.com)
 
 💼 LinkedIn: www.linkedin.com/in/nitish-kumar-65ab54351
-🚀 Open to internships and learning opportunities.
-
-
---
-- 💼 GitHub: [@Nitish-learner](https://github.com/Nitish-learner
+💼 LeetCode: Nitishkumar2005
+💼 GitHub: [@Nitish-learner](https://github.com/Nitish-learner
 - 
 ⚡ Fun Fact
  
