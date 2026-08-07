@@ -7,6 +7,7 @@ Passionate about coding and technology. Skilled in **Java, DSA, SQL, Python, C++
 
 💼 LinkedIn: www.linkedin.com/in/nitish-kumar-65ab54351
 💼 LeetCode: https://leetcode.com/u/Nitishkumar2005/
+prptflio: https://github.com/Nitish-learner
 💼 GitHub: [@Nitish-learner](https://github.com/Nitish-learner
 - 
 ⚡ Fun Fact
