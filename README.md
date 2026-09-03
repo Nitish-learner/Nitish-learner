@@ -3,7 +3,6 @@
 ### 🚀 BCA Student | Aspiring Java Developer | Data Analyst
 
 💻 Passionate about coding, technology, and building real-world projects.
-Currently focusing on **Java, Data Structures & Algorithms, SQL, and Data Analytics**.
 
 ---
 
@@ -14,7 +13,24 @@ Currently focusing on **Java, Data Structures & Algorithms, SQL, and Data Analyt
 * 📊 Interested in **Data Analytics**
 * 🌱 Currently improving my skills in **Java, DSA, SQL & Spring Boot**
 * 💡 I love building projects and learning new technologies
-* ⚡ Fun fact: *I started coding with curiosity, and now I'm building something new every week!*
+
+---
+
+## 🌐 Connect With Me
+
+📧 **Email:** [nitishkumarpiprakhura2005@gmail.com](mailto:nitishkumarpiprakhura2005@gmail.com)
+
+💼 **LinkedIn:**
+https://www.linkedin.com/in/nitish-kumar-65ab54351
+
+💻 **LeetCode:**
+https://leetcode.com/u/Nitishkumar2005/
+
+🌐 **Portfolio:**
+https://nitish-learner.github.io/portfolio/
+
+🐙 **GitHub:**
+https://github.com/Nitish-learner
 
 ---
 
@@ -28,13 +44,7 @@ Currently focusing on **Java, Data Structures & Algorithms, SQL, and Data Analyt
 
 ### 📊 Data Analytics Tools
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=excel" />
-
-</p>
-
-**Other Skills:** Power BI • Microsoft 365 • DSA • SQL
+**Power BI • Microsoft Excel • Microsoft 365**
 
 ---
 
@@ -60,25 +70,9 @@ Currently focusing on **Java, Data Structures & Algorithms, SQL, and Data Analyt
 
 ---
 
-## 🌐 Connect With Me
+## ⚡ Fun Fact
 
-📧 **Email:** [nitishkumarpiprakhura2005@gmail.com](mailto:nitishkumarpiprakhura2005@gmail.com)
-
-💼 **LinkedIn:**
-https://www.linkedin.com/in/nitish-kumar-65ab54351
-
-💻 **LeetCode:**
-https://leetcode.com/u/Nitishkumar2005/
-
-🌐 **Portfolio:**
-https://nitish-learner.github.io/portfolio/
-
-🐙 **GitHub:**
-https://github.com/Nitish-learner
-
----
-
-### 💬 Favorite Quote
+💪 I started coding with curiosity, and now I'm building something new every week!
 
 > *"Every expert was once a beginner."*
 
