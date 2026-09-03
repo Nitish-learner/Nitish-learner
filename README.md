@@ -1,19 +1,87 @@
-Hi i'm Nitish kuamr
-**BCA Student | Aspiring Java Developer & Data Analyst**
-Passionate about coding and technology. Skilled in **Java, DSA, SQL, Python, C++, Power BI, Microsoft 365, Git & GitHub**.
+# Hi 👋, I'm Nitish Kumar
 
+### 🚀 BCA Student | Aspiring Java Developer | Data Analyst
 
-📫 Email: [nitishkumarpiprakhura2005@gmail.com](mailto:nitishkumarpiprakhura2005@gmail.com)
+💻 Passionate about coding, technology, and building real-world projects.
+Currently focusing on **Java, Data Structures & Algorithms, SQL, and Data Analytics**.
 
-💼 LinkedIn: www.linkedin.com/in/nitish-kumar-65ab54351
-💼 LeetCode: https://leetcode.com/u/Nitishkumar2005/
-prptflio: (https://nitish-learner.github.io/portfolio/)
-💼 GitHub: [@Nitish-learner](https://github.com/Nitish-learner
-- 
-⚡ Fun Fact
- 
-I started coding with curiosity and now I’m building something new every week! 💪  
-_"Every expert was once a beginner."_
+---
 
+## 👨‍💻 About Me
 
-⭐ **Feel free to check out my repositories and drop a star if you like my work!**
+* 🎓 BCA Student
+* ☕ Aspiring **Java Developer**
+* 📊 Interested in **Data Analytics**
+* 🌱 Currently improving my skills in **Java, DSA, SQL & Spring Boot**
+* 💡 I love building projects and learning new technologies
+* ⚡ Fun fact: *I started coding with curiosity, and now I'm building something new every week!*
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,js,mysql,git,github,vscode" />
+
+</p>
+
+### 📊 Data Analytics Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=excel" />
+
+</p>
+
+**Other Skills:** Power BI • Microsoft 365 • DSA • SQL
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Nitish-learner&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitish-learner&theme=tokyonight" />
+
+</p>
+
+---
+
+## 🔥 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitish-learner&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+📧 **Email:** [nitishkumarpiprakhura2005@gmail.com](mailto:nitishkumarpiprakhura2005@gmail.com)
+
+💼 **LinkedIn:**
+https://www.linkedin.com/in/nitish-kumar-65ab54351
+
+💻 **LeetCode:**
+https://leetcode.com/u/Nitishkumar2005/
+
+🌐 **Portfolio:**
+https://nitish-learner.github.io/portfolio/
+
+🐙 **GitHub:**
+https://github.com/Nitish-learner
+
+---
+
+### 💬 Favorite Quote
+
+> *"Every expert was once a beginner."*
+
+⭐ **Feel free to explore my repositories and drop a star if you like my work!**
+
+🚀 **Keep Learning • Keep Building • Keep Growing**
