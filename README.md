@@ -10,7 +10,7 @@
 
 * 🎓 BCA Student
 * ☕ Aspiring **Java Developer**
-* 📊 Interested in **Data Analytics**
+* 📊 Interested in **coding**
 * 🌱 Currently improving my skills in **Java, DSA, SQL & Spring Boot**
 * 💡 I love building projects and learning new technologies
 
